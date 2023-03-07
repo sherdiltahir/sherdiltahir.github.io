@@ -1,14 +1,15 @@
 {
     "wallpaperData" : 
-        {
-            "categories": [
-                {
-                    "categoryName" : "Black Panther",
-                    "imageUrlList" : [
-                        ""
-                    ]
-                }
-            ] 
-        }
+     {
+        "Trending":[],
+        "Batman":[],
+        "Super Man":[],
+        "Hulk":[],
+        "Iron Man":[],
+        "Spider Man":[],
+        "Captain America":[],
+        "Thor":[],
+        "X-Man":[]
+     }
     
 }
